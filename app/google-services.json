@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "861249651877",
+    "firebase_url": "https://formapp-785aa-default-rtdb.firebaseio.com",
+    "project_id": "formapp-785aa",
+    "storage_bucket": "formapp-785aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861249651877:android:10c36f4b716ae12e29b94c",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.formapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861249651877-7vba4qe5cfjl880dt1a66op0h4e3scdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XjF0_shmihxGPWEsV9QMt-7i62ummN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861249651877-7vba4qe5cfjl880dt1a66op0h4e3scdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861249651877:android:71f558ef7fb9677629b94c",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861249651877-7vba4qe5cfjl880dt1a66op0h4e3scdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XjF0_shmihxGPWEsV9QMt-7i62ummN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861249651877-7vba4qe5cfjl880dt1a66op0h4e3scdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
